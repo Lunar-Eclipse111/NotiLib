@@ -1,5 +1,3 @@
-# M7 UI Library 
-A Documentation of **[`M7 UI Library`](https://github.com/M7/M7-UI-Library)**.
 
 ## Call the Library
 ```lua
