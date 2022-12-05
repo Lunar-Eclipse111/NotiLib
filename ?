@@ -1,0 +1,7 @@
+local lib={}
+
+
+function lib:makePrint(Typep)
+print(Typep)
+return lib
+end
