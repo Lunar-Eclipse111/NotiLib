@@ -3,3 +3,4 @@ local lib = {}
 function lib:MakePrint(PrintText)
 print(PrintText)
 end
+return lib
